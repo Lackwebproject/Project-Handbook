@@ -1,0 +1,15 @@
+Project Handbook - Team K,A,C,L
+
+*Requirements*
+
+- Table of Contents:
+-A	* Project Specification.
+-A	* Methodologies - Agile.
+-A	* Process of coming up with User Stories. List of User Stories, *Product Backlog*
+-C	* USECASES for User Stories. Label who did what USECASE for what User Story.
+-L	* Moonboard - Talk around why we decided on this particular moonboard.
+-C	* Wireframes - Talk around how we decided this particular design, how we made wireframes?, etc.
+-K	* Prototypes - Screenshots of prototypes and say what is happening on that page, description and what the user is meant to do.
+-L	* Database Design - Came up with fields, then tables and then relationship to the tables.
+-K	* Code - CSS/JS/HTML, what software did you use?, how did you code this?.
+ 
