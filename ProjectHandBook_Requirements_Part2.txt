@@ -1,0 +1,9 @@
+*Project Handbook to Do* 07/02/2023 - 14/02/2023
+
+- Include Product owner for ex = Talk about how you got approached by the product owner with this product.
+- Include about discussing what each table of contents is about, for example the Product backlog talk about what is it.
+- Talk about each faze with introducing each content like in steps of agile method.
+- Make the handbook in steps of what we did through this project.
+- Brief description on personas.
+- Talk about why we decided to go with this type of Moonboard, include how we all discussed about it.
+- Definitions on things like * USE CASES*
